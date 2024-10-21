@@ -18,6 +18,12 @@ O sistema utiliza um banco de dados desenvolvido com o [MySql](https://www.mysql
 
 
 ### Páginas esperadas:
+
+#### index.php
 ![image](/docs/index.png)
+
+#### detalhes_disciplina.php
 ![image](/docs/detalhes_disciplina.png)
+
+#### detalhes_aluno.php
 ![image](/docs/detalhes_aluno.png)
