@@ -14,4 +14,10 @@ O sistema utiliza um banco de dados desenvolvido com o [MySql](https://www.mysql
 ## Scripts para criação e auxílio em consultas podem ser encontrados na pasta /docs do repositório.
 
 ### Diagrama
-![image](/docs/image.png)
+![image](/docs/db.png)
+
+
+### Páginas esperadas:
+![image](/docs/index.png)
+![image](/docs/detalhes_disciplina.png)
+![image](/docs/detalhes_aluno.png)
