@@ -4,8 +4,7 @@ class Disciplina {
     private $id;
     private $nome;
     private $cargaHoraria;
-    //private $alunos = []; 
-    //private $alunos; 
+    private $alunos; 
     // Implemente o array de alunos que será utilizado pela entidade Disciplina
 
     public function __construct($id, $nome, $cargaHoraria) {
