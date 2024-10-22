@@ -2,8 +2,8 @@
 class Aluno {
     private $matricula;
     private $nome;
-    //private $disciplinas;
-    //private $disciplinas = [];
+    private $disciplinas;
+
    
     // Implemente o array de discplinas que será utilizado pela entidade Aluno   
 
